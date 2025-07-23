@@ -27,6 +27,7 @@ Frontend (React) → Backend (Node.js/Express) → MySQL Database
 ## Prerequisites
 
 - Node.js (v16+ recommended)
+- React.js
 - MySQL
 - npm or yarn
 
